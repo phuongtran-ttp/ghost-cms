@@ -25,6 +25,11 @@ export default class CustomThemeSettingsServices extends Service {
         name: 'Post',
         icon: 'post',
         previewType: 'post'
+    },{
+        key: 'contact',
+        name: 'Contact Information',
+        icon: 'info',
+        previewType: 'contact'
     }];
 
     get isDirty() {

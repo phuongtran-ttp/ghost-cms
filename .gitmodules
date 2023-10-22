@@ -6,3 +6,7 @@
 	path = ghost/core/content/themes/source
 	url = ../../TryGhost/Source.git
 	ignore = all
+[submodule "ghost/core/content/themes/dentist-clinic"]
+	path = ghost/core/content/themes/dentist-clinic
+	url = https://github.com/phuongtran-ttp/dentist-clinic-gh-theme
+	ignore = all
