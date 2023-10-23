@@ -28,6 +28,7 @@ content/images/**
 content/logs/**
 !content/logs/README.md
 content/settings/**
+!content/settings/routes.yaml
 !content/settings/README.md
 content/themes/**
 !content/themes/casper/**
